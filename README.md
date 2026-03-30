@@ -81,6 +81,4 @@ const vishnu = {
   <img src="https://komarev.com/ghpvc/?username=Vishnu-Varthan1&label=Profile%20Views&color=1F6FEB&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=0A0F1F" />
-</p>
+
