@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0F1F&height=180&section=header&text=VISHNU%20VARTHAN&fontSize=48&fontColor=00E5FF&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">⚡ Developer | AI • Web • Data</h1>
+<h1 align="center">⚡ data devops</h1>
 
 <p align="center">
   <a href="https://github.com/Vishnu-Varthan1"><img src="https://img.shields.io/badge/GitHub-0A0F1F?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
