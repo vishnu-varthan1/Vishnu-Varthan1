@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0F1F&height=180&section=header&text=VISHNU%20VARTHAN&fontSize=48&fontColor=00E5FF&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">⚡ data devops</h1>
+<h1 align="center">⚡Dataops</h1>
 
 <p align="center">
   <a href="https://github.com/Vishnu-Varthan1"><img src="https://img.shields.io/badge/GitHub-0A0F1F?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
@@ -17,14 +17,14 @@
 ```ts
 const vishnu = {
   role: "BCA Student & Developer",
-  focus: ["Web Development", "AI Projects", "Data Analytics"],
+  focus: ["Dataops", "AI Projects", "Data Analytics"],
   currentMission: "Building useful projects and improving every day",
 };
 ```
 
 - 🎓 BCA student learning and building consistently
 - 🤖 Interested in **AI tools**, automation, and smart applications
-- 🌐 Building modern **web projects**
+- 🌐 Building modern **Dataopsprojects**
 - 📊 Exploring **data analytics** and dashboard projects
 - 🚀 Focused on becoming a strong **developer with real-world skills**
 
@@ -33,7 +33,7 @@ const vishnu = {
 ## 🛠 Core Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,cpp,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,cpp,git,github,linux,vscode,docker,aws,git,github,linux" />
 </p>
 
 ---
