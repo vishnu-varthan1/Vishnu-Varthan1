@@ -71,7 +71,75 @@ Reviewing pull requests, resolving issues, and guiding contributors in the open-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0F1F&height=2&width=100%25" width="100%"/>
 
-## `03` &nbsp;Featured Projects
+## `03` &nbsp;Experience Timeline
+
+<table width="100%">
+<tr>
+<td width="15%" align="center"><b>08/2026<br/>– Present</b></td>
+<td width="85%">
+
+**Machine Learning Intern** · FlyRank AI
+Selected for the FlyRank AI ML Cohort — built and evaluated ML models using Pandas, NumPy, and Scikit-learn, applying data preprocessing and model evaluation techniques. Followed Git/GitHub best practices while collaborating with mentors and peers.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="15%" align="center"><b>05/2026<br/>– Present</b></td>
+<td width="85%">
+
+**Mentor** · GSSoC'26
+Guided contributors by reviewing pull requests, resolving issues, and mentoring junior developers. Supported collaborative development and knowledge sharing within the open-source community.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="15%" align="center"><b>05/2026<br/>– Present</b></td>
+<td width="85%">
+
+**Research Intern** · Synthica
+Working on AI, Machine Learning, and data-driven research projects with a focus on backend and application development. Assisting in data analysis, Python development, APIs, and modern ML workflows.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="15%" align="center"><b>01/2026<br/>– 02/2026</b></td>
+<td width="85%">
+
+**Mentor** · OSCG'26
+Guided contributors by reviewing pull requests, resolving issues, and mentoring junior developers. Supported collaborative development and knowledge sharing within the open-source community.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="15%" align="center"><b>01/2026<br/>– 02/2026</b></td>
+<td width="85%">
+
+**Open Source Contributor** · EWOC'26
+Actively contributed to open-source projects through code contributions, issue resolution, and collaborative development. Participated in community discussions and followed open-source best practices.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="15%" align="center"><b>10/2025<br/>– 01/2026</b></td>
+<td width="85%">
+
+**Open Source Contributor** · Kestra
+Merged 1 PR into the Kestra open-source project, improving frontend i18n implementation and code maintainability. Collaborated with maintainers using GitHub pull requests, code reviews, and issue tracking workflows.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0F1F&height=2&width=100%25" width="100%"/>
+
+## `04` &nbsp;Featured Projects
 
 <table width="100%">
 <tr>
@@ -141,7 +209,7 @@ Built with performance in mind — 90+ Lighthouse score with SEO best practices 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0F1F&height=2&width=100%25" width="100%"/>
 
-## `04` &nbsp;Tech Stack
+## `05` &nbsp;Tech Stack
 
 <div align="center">
 
@@ -185,7 +253,7 @@ Built with performance in mind — 90+ Lighthouse score with SEO best practices 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0F1F&height=2&width=100%25" width="100%"/>
 
-## `05` &nbsp;Open Source
+## `06` &nbsp;Open Source
 
 <div align="center">
 
@@ -202,7 +270,7 @@ Built with performance in mind — 90+ Lighthouse score with SEO best practices 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0F1F&height=2&width=100%25" width="100%"/>
 
-## `06` &nbsp;GitHub Analytics
+## `07` &nbsp;GitHub Analytics
 
 <div align="center">
 
