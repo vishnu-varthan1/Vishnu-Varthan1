@@ -203,6 +203,16 @@ Built with performance in mind — 90+ Lighthouse score with SEO best practices 
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3>🚢 AIS Ship Anomaly Detection</h3>
+<i>Unsupervised Maritime Anomaly Detection</i>
+<br/><br/>
+
+Machine learning pipeline for analysing AIS vessel-tracking data and identifying potentially anomalous maritime movement patterns using feature engineering and Isolation Forest.
+
+<br/>
 </table>
 
 <br/>
